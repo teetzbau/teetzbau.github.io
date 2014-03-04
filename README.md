@@ -1,4 +1,6 @@
 teetzbau.github.io
 ==================
 
-teetzbau.de static website
+Git repository for the static website <http://www.teetz-bau.de/>
+
+Webmaster: Nils Toedtmann <https://github.com/nilstoedtmann>
